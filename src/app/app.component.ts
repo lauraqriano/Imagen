@@ -28,4 +28,11 @@ export class AppComponent  {
   // Boolean - Booleanos
   estoyAprendiendo = true;
   meGustanLosVegetales = false;
+
+  variable = '';
+
+guardemosUnValorEnUnaVariable(valor) {
+  this.variable = valor;
 }
+}
+
