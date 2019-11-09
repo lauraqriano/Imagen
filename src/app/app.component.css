@@ -1,0 +1,18 @@
+.card {
+  font-family: sans-serif;
+  width: 400px;
+}
+.title {
+  font-size: 30px;
+  text-align: center;
+}
+.card-image {
+  width: 100%;
+}
+.description-title {
+  font-size: 24px;
+  text-align: center;
+}
+.description {
+  font-size: 18px;
+}
